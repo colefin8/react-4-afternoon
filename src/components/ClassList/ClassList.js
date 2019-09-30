@@ -6,7 +6,7 @@ export default class ClassList extends Component {
   constructor() {
     super();
     this.state = {
-      sudents: []
+      students: []
     };
   }
   componentDidMount() {
